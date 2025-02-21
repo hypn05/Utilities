@@ -1,0 +1,22 @@
+[
+    {
+        "name": "local-ftp",
+        "description": "A simple FTP server that runs on localhost"
+    },
+    {
+        "name": "base64d",
+        "description": "A utility to base64 decode space-separated arguments and JWT tokens"
+    },
+    {
+        "name": "networkConnect",
+        "description": "A utility script to monitor network connections for a specific application."
+    },
+    {
+        "name": "networkRequest",
+        "description": "A utility script to monitor network connections and requests for a specific application."
+    },
+    {
+        "name": "quickMac",
+        "description": "A tool for automating the setup of development and security tools on macOS"
+    }   
+]
